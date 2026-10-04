@@ -25,8 +25,8 @@ I analyze data to find out what is driving a problem and what to do about it. I 
 
 ### 📂 Featured Projects
 
-- **[Call Center Capacity Analysis](https://github.com/hespee00/Call-Center-Capacity-Analysis)**: Investigated why a call center was missing its 90% service-level target. Found that rising call volume against a fixed team of 4 agents was the main driver, and recommended testing one additional agent. 
-- **[FMCG Sales Analysis](https://github.com/hespee00/FMCG-Sales-Analysis)**: Compared product demand and total profit across Milan and Rome to find which products drive profitable growth. Showed that high demand and high profit don't always coincide, and identified priority products for each market.
+- **[Call Center Capacity Analysis](https://github.com/abdullahi-oyekanmi/Call-Center-Capacity-Analysis)**: Investigated why a call center was missing its 90% service-level target. Found that rising call volume against a fixed team of 4 agents was the main driver, and recommended testing one additional agent. 
+- **[FMCG Sales Analysis](https://github.com/abdullahi-oyekanmi/FMCG-Sales-Analysis)**: Compared product demand and total profit across Milan and Rome to find which products drive profitable growth. Showed that high demand and high profit don't always coincide, and identified priority products for each market.
 
 ---
 
