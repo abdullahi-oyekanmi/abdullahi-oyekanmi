@@ -12,7 +12,7 @@ I analyze data to find out what is driving a problem and what to do about it. I 
 - Root cause analysis
 - Data cleaning and preparation
 - Data visualization and dashboards
-- Writing findings and recommendations for non-technical readers
+- Communicating findings and recommendations to non-technical readers
 
 ### 🛠️ Technical Tools
 
