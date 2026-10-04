@@ -17,7 +17,7 @@ I analyze data to find out what is driving a problem and what to do about it. I 
 ### 🛠️ Technical Tools
 
 - **Excel** (Data analysis, visualization and dashboards)
-- Power Query** (data extraction, transformation and loading)
+- **Power Query** (data extraction, transformation and loading)
 - **SQL** (Data extraction, transformation, querying and preparation)
 - **Tableau** (data analysis, exploration, visualization and dashboard)
 
